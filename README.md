@@ -1,2 +1,2 @@
-# nova-bank-ai-platform
+# mive-bank-ai-platform
 Banking, Simplified.
