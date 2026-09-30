@@ -7,9 +7,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @Disabled
 class CustomerServiceApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
+  @Test
+  void contextLoads() {}
 }

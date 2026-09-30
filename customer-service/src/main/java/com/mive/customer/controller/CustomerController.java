@@ -1,4 +1,4 @@
-package com.mive.customer.controllers;
+package com.mive.customer.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -7,7 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(path = "/mive/customer")
 public class CustomerController {
 
-  public void get() {}
+  public void get() {
+    System.out.println("Hello World");
+  }
 
   public void create() {}
 }
